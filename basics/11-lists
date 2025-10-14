@@ -1,2 +1,2 @@
 #!/bin/bash
-/etc/init.d/boot/
+ls -la . .. /boot
