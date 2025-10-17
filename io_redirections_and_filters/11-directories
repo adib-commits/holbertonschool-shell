@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -m indeph 1 -type d | wc -1
+. -m indeph 1 -type d | wc -1
